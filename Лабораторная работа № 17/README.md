@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  https://user-images.githubusercontent.com/119668128/205284790-a8f59837-453d-440f-835e-faa17b2bc5b8.png)
+  https://user-images.githubusercontent.com/119668128/205284790-a8f59837-453d-440f-835e-faa17b2bc5b8.png
 </p>
 
 
