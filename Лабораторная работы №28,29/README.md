@@ -3,47 +3,57 @@
   </p>
 <p align="left"> Группа: ЭВТ-70
   </p>
-<p align="left"> Игровой движок: Unity 2021.3.9f1
+<p align="left"> Игровой движок: Unity 2021.3.14f1
   </p>
 <p align="left"> Название работы: разработка игры Ant Smasher
   </p>
 
 
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/119668128/205317220-4df25511-d163-450e-b135-0cd33d489c71.png)
+  <img src="1.png"/>
 </p>
 
 
 <p align="center">
-Рисунок 28,29.1 - Геймплей игры 
+Рисунок 28.1 - Перкидываем спрайты и настраиваем их 
 </p>
 
 
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/119668128/205331037-d4e2aa05-9b42-43ed-b827-27d13a0b5b3e.png)
+  <img src="2.png"/>
 </p>
 
 
 <p align="center">
-Рисунок 28,29.2 - Скрипты 
+Рисунок 28.2 - Создаем множество анимаций для игровых объектов 
 </p>
 
 
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/119668128/205329466-624ed7ae-52f8-4b47-9e9f-9f9b47675ab0.png)
+  <img src="3.png"/>
 </p>
 
 
 <p align="center">
-Рисунок 28,29.3 - Папка Sprites
+Рисунок 28.3 - Создаем сцену игрового меню
 </p>
 
 
 <p align="center">
- ![image](https://user-images.githubusercontent.com/119668128/205329628-83bd3724-7ed6-490a-8325-4c803b981a44.png)
+  <img src="4.png"/>
 </p>
 
 
 <p align="center">
-Рисунок 28,9.4 - Игровое поле
+Рисунок 28.4 - Создаем сцену геймплея 
+</p>
+
+
+<p align="center">
+  <img src="5.png"/>
+</p>
+
+
+<p align="center">
+Рисунок 28.5 - Геймплей игры
 </p>
